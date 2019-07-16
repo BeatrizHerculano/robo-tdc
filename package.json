@@ -6,8 +6,17 @@
   "bin": {
     "robo-tdc": "bin/robo-tdc"
   },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "TDC",
+    "TDCSP",
+    "fun"
+  ],
+  "preferGlobal": true,
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
     "cli-progress": "^2.1.1",
