@@ -1,0 +1,17 @@
+{
+  "name": "robo-tdc",
+  "version": "1.0.0",
+  "description": "Uma aplicação CLI que faz algumas tarefas para você",
+  "main": "index.js",
+  "bin": {
+    "robo-tdc": "bin/robo-tdc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-progress": "^2.1.1",
+    "minimist": "^1.2.0",
+    "ora": "^3.4.0"
+  }
+}
