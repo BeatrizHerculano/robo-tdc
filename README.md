@@ -1,6 +1,8 @@
 # robo-tdc
 Uma aplicação CLI criada para uma apresentação no TDC SP 2019
-#Uso
+
+# Uso
+
       robo-tdc [command] <options>
   
       alarme .............. cria um alarme para amanhã no mesmo horario
